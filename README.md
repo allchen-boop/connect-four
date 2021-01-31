@@ -1,6 +1,6 @@
 # CONNECT FOUR
 
-# IMPLEMENTATION
+# implementation
 
 Board.java: 		represents the main Connect 4 board.
 
